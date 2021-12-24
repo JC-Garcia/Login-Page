@@ -1,0 +1,83 @@
+body{
+    background-color: #27273f;
+    color: white;
+}
+
+.bi-bootstrap{
+    color: rgb(150, 4, 255);
+}
+
+h1, h3{
+    text-align: center;
+}
+
+
+
+.form-control{
+    background-color: #27273f;
+    border: 1px solid #ff5252;
+    border-radius: 25px;
+    color: white;
+    outline: none;
+}
+
+
+.form-control:focus{
+    background-color: #27273f;
+    border: 1px solid #ff5252;
+    border-radius: 25px;
+    outline: none;
+}
+
+.check{
+    background-color: #27273f;
+    border-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #ff5252;
+}
+
+a:hover{
+    color: white;
+}
+
+.btn{
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+    background-color: #ff5252;
+    border: none;
+    border-radius: 25px;
+}
+
+.btn:hover{
+    background-color: #943131;
+}
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon i {
+    position: absolute;
+    padding: 5px 6px;
+    pointer-events: none;
+    color: #fff;
+}
+.left-inner-addon input.form-control {
+    padding-left: 30px;
+}
+i{
+    color: whitesmoke;
+    margin: 3px;
+}
+
+.mt{
+    margin-top: 10vh;
+}
+
+.copy h6{
+    font-size: small;
+    text-align: center;
+    padding: 10px;
+}
